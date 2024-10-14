@@ -11,3 +11,7 @@ python3 -m http.server 8888
 ```
 
 Open your browser and paste in the URL of your server, (http://localhost:8888) into the address bar.
+
+## Personal notes
+
+* Run `chmod +x main.sh` make `main.sh` executable
