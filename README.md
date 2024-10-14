@@ -14,4 +14,7 @@ Open your browser and paste in the URL of your server, (http://localhost:8888) i
 
 ## Personal notes
 
-* Run `chmod +x main.sh` make `main.sh` executable
+* Run `chmod +x main.sh` to make `main.sh` executable
+* **Run** `./main.sh` to run main file
+* Run `chmod +x test.sh` to make `test.sh` executable
+* **Run** unit tests with this command: `./test.sh`
