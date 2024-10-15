@@ -1,7 +1,7 @@
 # Static Site Generator
 Static site generator from scratch, similar to Jekyll, Hugo, or Gatsby in Python.
 
-> This project was course #8 on boot.dev.
+> This is a guided project that was course #8 on boot.dev.
 
 # How to run
 
